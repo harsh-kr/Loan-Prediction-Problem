@@ -1,5 +1,5 @@
 # Loan-Prediction-Problem
-It is a classification problem where we have to predict whether a loan would be approved or not. It automates the loan eligibility process based on customer details provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
+:bar_chart::bank: It is a classification problem where we have to predict whether a loan would be approved or not. It automates the loan eligibility process based on customer details provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 ### Dataset- 
 The train data has 615 rows and 13 columns.
 The test data has 367 rows and 12 columns
